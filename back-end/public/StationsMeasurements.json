@@ -1,0 +1,32 @@
+{
+    "stations": [
+      {
+        "id": "CT001",
+        "temperature": 22.5,
+        "humidity": 45,
+        "windSpeed": 5.2,
+        "isRaining": false
+      },
+      {
+        "id": "Arquerias001",
+        "temperature": 17.3,
+        "humidity": 55,
+        "windSpeed": 3.8,
+        "isRaining": true
+      },
+      {
+        "id": "Arquerias002",
+        "temperature": 29.1,
+        "humidity": 30,
+        "windSpeed": 7.4,
+        "isRaining": false
+      },
+	    {
+        "id": "Arquerias003",
+        "temperature": 27.1,
+        "humidity": 45,
+        "windSpeed": 7.0,
+        "isRaining": false
+      }
+    ]
+  }
